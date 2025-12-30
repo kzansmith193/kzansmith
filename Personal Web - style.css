@@ -1,0 +1,5 @@
+/* super-simple starter */
+body{margin:0;font-family:system-ui;background:#111;color:#eee;}
+header{height:100vh;display:grid;place-content:center;text-align:center;}
+a{color:#0ff;}
+.grid{display:grid;gap:1rem;padding:2rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
